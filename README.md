@@ -56,7 +56,7 @@
 
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
 
-[![khYaroslav github streak](https://github-readme-streak-stats.herokuapp.com/?user=khYarolsav&theme=radical)](https://github.com/KhYaroslav))
+[![d4rsen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=khYaroslav&theme=radical)](https://github.com/KhYaroslav)
 
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
 
@@ -64,4 +64,4 @@
 
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
 
-[![](https://visitor-badge.glitch.me/badge?page_id=khYaroslav&left_color=black&right_color=black)](https://github.com/d4rsen)
+[![](https://visitor-badge.glitch.me/badge?page_id=khYaroslav&left_color=black&right_color=black)](https://github.com/KhYaroslav)
