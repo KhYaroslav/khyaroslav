@@ -29,6 +29,7 @@
 [![Webpack](https://img.shields.io/badge/webpack-20232A?style=for-the-badge&logo=webpack)](https://github.com/KhYaroslav)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-20232A?style=for-the-badge&logo=postgresql)](https://github.com/KhYaroslav)
 [![Sequelize](https://img.shields.io/badge/Sequelize-20232A?style=for-the-badge&logo=Sequelize)](https://github.com/KhYaroslav)
+[![Jest](https://img.shields.io/badge/jest-20232A?style=for-the-badge&logo=jest&logoColor=99424F)](https://github.com/KhYaroslav)
 [![Eslint](https://img.shields.io/badge/eslint-20232A?style=for-the-badge&logo=eslint&logoColor=7C7CEA)](https://github.com/KhYaroslav)
 [![Git](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)](https://github.com/KhYaroslav)
 [![Github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)](https://github.com/KhYaroslav)
@@ -46,3 +47,21 @@
 [![Chrome](https://img.shields.io/badge/chrome-20232A?style=for-the-badge&logo=googlechrome)](https://github.com/KhYaroslav)
 
 </div>
+
+<div align="center">
+
+[![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
+
+[![khYaroslav github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=khYaroslav&theme=radical&langs_count=20&layout=compact)](https://github.com/KhYaroslav))
+
+[![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
+
+[![khYaroslav github streak](https://github-readme-streak-stats.herokuapp.com/?user=khYarolsav&theme=radical)](https://github.com/KhYaroslav))
+
+[![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
+
+[![khYaroslav github stats](https://github-readme-stats.vercel.app/api?username=khYaroslav&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/KhYaroslav)
+
+[![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
+
+[![](https://visitor-badge.glitch.me/badge?page_id=khYaroslav&left_color=black&right_color=black)](https://github.com/d4rsen)
