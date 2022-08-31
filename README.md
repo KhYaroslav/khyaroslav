@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/razdelitelnaya-liniya-animatsionnaya-kartinka-0257%20(1).gif?raw=true)](https://github.com/KhYaroslav)
+[![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/razdelitelnaya-liniya-animatsionnaya-kartinka-0258.gif?raw=true)](https://github.com/KhYaroslav)
 
 
 [![Music](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=fa428e)](https://github.com/KhYaroslav)
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/razdelitelnaya-liniya-animatsionnaya-kartinka-0257%20(1).gif?raw=true)](https://github.com/KhYaroslav)
+[![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/razdelitelnaya-liniya-animatsionnaya-kartinka-0258.gif?raw=true)](https://github.com/KhYaroslav)
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)](https://github.com/KhYaroslav)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)](https://github.com/KhYaroslav)
@@ -38,7 +38,7 @@
 
 <div align="center">
 
-[![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/razdelitelnaya-liniya-animatsionnaya-kartinka-0257%20(1).gif?raw=true)](https://github.com/KhYaroslav)
+[![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/razdelitelnaya-liniya-animatsionnaya-kartinka-0258.gif?raw=true)](https://github.com/KhYaroslav)
 
 [![Linux](https://img.shields.io/badge/linux-20232A?style=for-the-badge&logo=linux)](https://github.com/KhYaroslav)
 [![Windows](https://img.shields.io/badge/Windows-20232A?style=for-the-badge&logo=windows)](https://github.com/KhYaroslav)
