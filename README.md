@@ -42,7 +42,7 @@
 
 [![Linux](https://img.shields.io/badge/linux-20232A?style=for-the-badge&logo=linux)](https://github.com/KhYaroslav)
 [![Windows](https://img.shields.io/badge/Windows-20232A?style=for-the-badge&logo=windows)](https://github.com/KhYaroslav)
-[![Vscode](https://img.shields.io/badge/visualstudicode-20232A?style=for-the-badge&logo=visualstudio)](https://github.com/KhYaroslav)
+[![Vscode](https://img.shields.io/badge/Vscode-20232A?style=for-the-badge&logo=visualstudio)](https://github.com/KhYaroslav)
 [![Chrome](https://img.shields.io/badge/chrome-20232A?style=for-the-badge&logo=googlechrome)](https://github.com/KhYaroslav)
 
 </div>
