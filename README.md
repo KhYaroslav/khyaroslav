@@ -52,11 +52,18 @@
 
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
 
+
 [![khYaroslav github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=khYaroslav&theme=radical&langs_count=20&layout=compact)](https://github.com/KhYaroslav))
+
 
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
 
-[![d4rsen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=khYaroslav&theme=radical)](https://github.com/KhYaroslav)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=khYaroslav&theme=radical&column=3&margin-w=15&margin-h=15)](https://github.com/KhYaroslav))
+
+[![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
+
+[![khYaroslav github streak](https://github-readme-streak-stats.herokuapp.com/?user=khYaroslav&theme=radical)](https://github.com/KhYaroslav)
 
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
 
