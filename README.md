@@ -4,7 +4,6 @@
 
 <div align="center">
 
-<br>
 
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
 
@@ -13,7 +12,6 @@
 
 </div>
 
-<br>
 
 <div align="center">
 
@@ -40,7 +38,6 @@
 
 </div>
 
-<br>
 
 <div align="center">
 
@@ -53,42 +50,36 @@
 
 </div>
 
-<br>
+
 
 <div align="center">
 
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
 
-[![khYaroslav GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=khYaroslav&hide_border=true&theme=redical)](https://github.com/d4rsen)
+[![khYaroslav GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=khYaroslav&hide_border=true&theme=synthwave-84)](https://github.com/d4rsen)
 
-
-<br>
 
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
 
 
 [![khYaroslav github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=khYaroslav&theme=highcontrast&langs_count=20&layout=compact)](https://github.com/KhYaroslav)
 
-<br>
 
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=khYaroslav&theme=juicyfresh&column=3&margin-w=15&margin-h=15)](https://github.com/KhYaroslav))
 
-<br>
 
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
 
 [![khYaroslav github streak](https://github-readme-streak-stats.herokuapp.com/?user=khYaroslav&theme=yellowdark)](https://github.com/KhYaroslav)
 
-<br>
 
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
 
 [![khYaroslav github stats](https://github-readme-stats.vercel.app/api?username=khYaroslav&show_icons=true&theme=highcontrast&include_all_commits=true)](https://github.com/KhYaroslav)
 
-<br>
 
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
 
