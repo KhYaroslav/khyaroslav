@@ -56,7 +56,7 @@
 
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
 
-[![khYaroslav GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=khYaroslav&hide_border=true&theme=synthwave-84)](https://github.com/d4rsen)
+[![khYaroslav GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=khYaroslav&hide_border=true&theme=synthwave-84)](https://github.com/KhYaroslav)
 
 
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
