@@ -1,4 +1,4 @@
-![header](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/my_Name_is_(1).gif?raw=true)
+![header](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/WELCOME.gif?raw=true)
 
 about me
 
