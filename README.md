@@ -11,7 +11,7 @@
 
 </div>
 
-<hr>
+[![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/razdelitelnaya-liniya-animatsionnaya-kartinka-0257%20(1).gif?raw=true)](https://github.com/KhYaroslav)
 
 <div align="center">
 
@@ -35,7 +35,7 @@
 
 </div>
 
-<hr>
+[![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/razdelitelnaya-liniya-animatsionnaya-kartinka-0257%20(1).gif?raw=true)](https://github.com/KhYaroslav)
 
 <div align="center">
 
