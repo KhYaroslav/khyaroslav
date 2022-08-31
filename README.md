@@ -2,7 +2,7 @@
 
 [![header](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/WELCOME.gif?raw=true)](https://github.com/KhYaroslav)
 
-<div align="center">
+<div align="center" width="300%">
 
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/razdelitelnaya-liniya-animatsionnaya-kartinka-0257%20(1).gif?raw=true)](https://github.com/KhYaroslav)
 
