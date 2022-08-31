@@ -67,7 +67,7 @@
 
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
 
-[![khYaroslav github stats](https://github-readme-stats.vercel.app/api?username=khYaroslav&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/KhYaroslav)
+[![khYaroslav github stats](https://github-readme-stats.vercel.app/api?username=khYaroslav&show_icons=true&theme=highcontrast&include_all_commits=true)](https://github.com/KhYaroslav)
 
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
 
