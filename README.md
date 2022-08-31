@@ -28,7 +28,6 @@
 [![Webpack](https://img.shields.io/badge/webpack-20232A?style=for-the-badge&logo=webpack)](https://github.com/KhYaroslav)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-20232A?style=for-the-badge&logo=postgresql)](https://github.com/KhYaroslav)
 [![Sequelize](https://img.shields.io/badge/Sequelize-20232A?style=for-the-badge&logo=Sequelize)](https://github.com/KhYaroslav)
-[![Jest](https://img.shields.io/badge/jest-20232A?style=for-the-badge&logo=jest&logoColor=99424F)](https://github.com/KhYaroslav)
 [![Eslint](https://img.shields.io/badge/eslint-20232A?style=for-the-badge&logo=eslint&logoColor=7C7CEA)](https://github.com/KhYaroslav)
 [![Git](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)](https://github.com/KhYaroslav)
 [![Github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)](https://github.com/KhYaroslav)
