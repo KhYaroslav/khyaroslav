@@ -63,7 +63,7 @@
 
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
 
-[![khYaroslav github streak](https://github-readme-streak-stats.herokuapp.com/?user=khYaroslav&theme=radical)](https://github.com/KhYaroslav)
+[![khYaroslav github streak](https://github-readme-streak-stats.herokuapp.com/?user=khYaroslav&theme=juicyfresh)](https://github.com/KhYaroslav)
 
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
 
