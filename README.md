@@ -40,8 +40,8 @@
 
 <div align="center">
 
-[![Linux](https://img.shields.io/badge/linux-20232A?style=for-the-badge&logo=linux)](https://github.com/d4rsen)
-[![Vscode](https://img.shields.io/badge/vscode-20232A?style=for-the-badge&logo=vscode)](https://github.com/d4rsen)
-[![Chrome](https://img.shields.io/badge/chrome-20232A?style=for-the-badge&logo=googlechrome)](https://github.com/d4rsen)
+[![Linux](https://img.shields.io/badge/linux-20232A?style=for-the-badge&logo=linux)](https://github.com/KhYaroslav)
+[![Vscode](https://img.shields.io/badge/vscode-20232A?style=for-the-badge&logo=vscode)](https://github.com/KhYaroslav)
+[![Chrome](https://img.shields.io/badge/chrome-20232A?style=for-the-badge&logo=googlechrome)](https://github.com/KhYaroslav)
 
 </div>
