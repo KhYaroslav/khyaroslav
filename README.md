@@ -7,7 +7,7 @@
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/razdelitelnaya-liniya-animatsionnaya-kartinka-0258.gif?raw=true)](https://github.com/KhYaroslav)
 
 
-[![Music](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=fa428e)](https://github.com/KhYaroslav)
+[![Music](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=FFFF00)](https://github.com/KhYaroslav)
 
 </div>
 
