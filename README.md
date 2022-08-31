@@ -59,7 +59,7 @@
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=khYaroslav&theme=radical&column=3&margin-w=15&margin-h=15)](https://github.com/KhYaroslav))
+[![trophy](https://github-profile-trophy.vercel.app/?username=khYaroslav&theme=juicyfresh&column=3&margin-w=15&margin-h=15)](https://github.com/KhYaroslav))
 
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
 
