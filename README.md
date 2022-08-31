@@ -1,6 +1,6 @@
 <div class="wrapper">
 
-[![header](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/header.gif?raw=true)](https://github.com/KhYaroslav)
+[![header](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/Header.gif?raw=true)](https://github.com/KhYaroslav)
 
 <div align="center">
 
