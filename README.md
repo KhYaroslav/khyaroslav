@@ -2,11 +2,10 @@
 
 [![header](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/Header.gif?raw=true)](https://github.com/KhYaroslav)
 
-<div align="center">
+<div align="center" width='700'>
 
-<div width='600'>
+
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
-</div>
 
 [![Music](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=FFFF00)](https://github.com/KhYaroslav)
 
