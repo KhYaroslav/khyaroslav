@@ -35,7 +35,7 @@
 [![Eslint](https://img.shields.io/badge/eslint-20232A?style=for-the-badge&logo=eslint&logoColor=7C7CEA)](https://github.com/KhYaroslav)
 [![Git](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)](https://github.com/KhYaroslav)
 [![Github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)](https://github.com/KhYaroslav)
-[![Mui](https://img.shields.io/badge/Material_Ui-20232A?style=for-the-badge&logo=MUi)](https://github.com/KhYaroslav)
+[![Mui](https://img.shields.io/badge/MUI-20232A?style=for-the-badge&logo=MUi)](https://github.com/KhYaroslav)
 [![Npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)](https://github.com/KhYaroslav)
 
 </div>
