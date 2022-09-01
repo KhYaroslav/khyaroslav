@@ -2,7 +2,7 @@
 
 [![header](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/Header.gif?raw=true)](https://github.com/KhYaroslav)
 
-<div align="center" width='700'>
+<div align="center">
 
 
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
