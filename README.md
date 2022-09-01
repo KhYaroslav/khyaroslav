@@ -5,7 +5,7 @@
 <div align="center">
 
 
-[![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true width="700")](https://github.com/KhYaroslav)
+[![separator width="700"](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
 
 
 [![Music](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=FFFF00)](https://github.com/KhYaroslav)
