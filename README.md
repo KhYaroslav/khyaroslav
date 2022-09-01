@@ -22,6 +22,7 @@
 [![ReactRouter](https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router)](https://github.com/KhYaroslav)
 [![Html](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)](https://github.com/KhYaroslav)
 [![Css](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=369AD6)](https://github.com/KhYaroslav)
+[![Chart.js](https://img.shields.io/badge/Chart.js-20232A?style=for-the-badge&logo=Chart.js)](https://github.com/KhYaroslav)
 [![Scss](https://img.shields.io/badge/scss-20232A?style=for-the-badge&logo=sass)](https://github.com/KhYaroslav)
 [![Node](https://img.shields.io/badge/node-20232A?style=for-the-badge&logo=node.js)](https://github.com/KhYaroslav)
 [![Express](https://img.shields.io/badge/express-20232A?style=for-the-badge&logo=express)](https://github.com/KhYaroslav)
