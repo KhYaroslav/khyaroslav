@@ -5,7 +5,8 @@
 <div align="center">
 
 
-<div class="tenor-gif-embed" data-postid="17241893" data-share-method="host" data-aspect-ratio="106.665" data-width="100%"><a href="https://tenor.com/view/divider-line-colors-change-color-gif-17241893">Divider Line GIF</a>from <a href="https://tenor.com/search/divider-gifs">Divider GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+[![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
+
 
 [![Music](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=FFFF00)](https://github.com/KhYaroslav)
 
