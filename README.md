@@ -84,7 +84,7 @@
 
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
 
-[![khYaroslav codeWars](https://github-readme-codewars-stats.herokuapp.com/api/?username=khyaroslav&badge&name_only)](https://github.com/KhYaroslav)
+[![khYaroslav codeWars](https://github-readme-codewars-stats.herokuapp.com/api/?username=Kh.Yaroslav&badge&name_only)](https://github.com/KhYaroslav)
 
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
 
