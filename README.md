@@ -84,7 +84,7 @@
 
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
 
-[![khYaroslav codeWars](https://www.codewars.com/users/Kh.Yaroslav/badges/small)](https://github.com/KhYaroslav)
+[![khYaroslav codeWars](https://www.codewars.com/users/Kh.Yaroslav/badges/large)](https://github.com/KhYaroslav)
 
 [![separator](https://github.com/KhYaroslav/khyaroslav/blob/main/assets/separator.gif?raw=true)](https://github.com/KhYaroslav)
 
